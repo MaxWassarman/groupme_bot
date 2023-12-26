@@ -1,0 +1,29 @@
+{
+    "late": [
+        {
+            "Emoji": "🙁",
+            "Name": "Alice",
+            "Time": "10:15 AM"
+        },
+        {
+            "Emoji": "😅",
+            "Name": "Bob",
+            "Time": "10:30 AM"
+        }
+    ],
+    "leaveEarly": [
+        {
+            "Emoji": "😓",
+            "Name": "Charlie",
+            "Time": "3:00 PM"
+        }
+    ],
+    "absent": [
+        {
+            "Emoji": "🤒",
+            "Name": "Dave",
+            "Time": "N/A"
+        }
+    ]
+}
+
